@@ -1,0 +1,23 @@
+{
+  "name": "Twitter-Bot",
+  "version": "1.0.0",
+  "description": "# Tweet-reGenerator with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilvina/Twitter-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilvina/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/lilvina/Twitter-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
